@@ -74,7 +74,7 @@ button:hover {
     border: 2px solid var(--my--Magenta);
 }
 footer {
-    position: fixed;
+    position: relative;
     bottom: 5%;
     right: 0;
     left: 0;
