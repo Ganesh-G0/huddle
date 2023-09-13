@@ -132,6 +132,9 @@ footer {
         grid-template-rows: 1fr;
         text-align: left;
     }
+    .img-fluid {
+        width: 85rem;
+    }
     h1 {
         font-size: 3rem;
     }
@@ -153,10 +156,6 @@ footer {
     }
     .img-fluid {
         width: 90rem;
-
-    }
-    h1 {
-        font-size: 3.2rem;
     }
     p {
         font-size: 2rem;
